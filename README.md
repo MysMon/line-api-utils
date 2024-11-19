@@ -36,11 +36,7 @@ Additional functionalities will be available as the project evolves, such as cre
 
 ## Configuration
 
-Create a 
-
-.env
-
- file in the root directory with the necessary environment variables:
+Create a .env file in the root directory with the necessary environment variables:
 
 ```
 LINE_CHANNEL_ACCESS_TOKEN=your_channel_access_token
